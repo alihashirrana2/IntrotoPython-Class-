@@ -1,0 +1,25 @@
+Code For Celsius to Fahrenheit Tempreatue Conversion:
+temp = 33
+print("The Temprature In Celsius is: ", temp," DEGREES")
+print("The Temprature In Fahrenheit is: ", 9/5*temp+32," DEGREES
+
+
+Code for Splitting:
+EX 1:
+tweet = "Hello my name is Ali Hashir Rana"
+split = tweet.split()
+print(split)
+
+EX 2:
+email = alihashir@gmail.com
+splitted = email.split(@)
+print(splitted)
+
+
+Code for Slicing:
+name = "Hashir"
+print(name[0 : 2])
+
+Code for Reverse Slicing:
+name = "RACECAR"
+print(name[ :: -2])
